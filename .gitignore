@@ -1,1 +1,6 @@
 .DS_Store
+*.o
+*.a
+*.out
+*.db
+Matrix/Matrix
