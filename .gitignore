@@ -3,4 +3,6 @@
 *.a
 *.out
 *.db
-Matrix/Matrix
+*.res
+*.exe
+Matrix
